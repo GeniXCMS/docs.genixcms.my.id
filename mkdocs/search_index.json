@@ -17,7 +17,7 @@
         },
         {
             "location": "/about/about/",
-            "text": "About GeniXCMS\n\n\n\n\nGeniXCMS\n is a PHP Based Content Management System and Framework (\nCMSF\n). It's a simple and lightweight of CMSF. Very suitable for \nIntermediate PHP developer\n to \nAdvanced Developer\n. Some manual configurations needed to make this application to work. \n\n\n\n\nWhy GeniXCMS\n\n\n\n\nThis CMSF is a starter point to build your own online applications. With already build \nUser manager\n, \nContent manager\n (\nPost\n, \nPages\n), \nMenu manager\n, etc made you easy to add your own code and build your own custom web applications. \n\n\n\n\nCredits\n\n\n\n\nGeniXCMS\n is using some of \nFOSS\n (free and opensource software) like :\n\n\n\n\nTwitter \nBootstrap\n, \n\n\nSummernote\n Text Editor, \n\n\nJQuery\n, \n\n\nPHP\n, \n\n\nMySQL\n, \n\n\nSB-Admin 2\n,\n\n\nBootstrap Validator\n,\n\n\netc.\n\n\n\n\n\n\nRequirements\n\n\n\n\n\n\nPHP >=\n5.5.9\n\n\nMySQL >=\n4\n\n\n\n\n\n\nShowcase\n\n\n\n\nShowcase URL : \nhttp://demo.genix.id\n\n\n\n\nLicense\n\n\n\n\nGeniXCMS\n License : \nMIT License\n\n\n\n\nWebsite\n\n\n\n\nLink : \nhttp://www.genix.id\n\n\n\n\nDeveloper\n\n\n\n\nDeveloped by : Puguh Wijayanto - \nhttp://www.metalgenix.com",
+            "text": "About GeniXCMS\n\n\n\n\nGeniXCMS\n is a PHP Based Content Management System and Framework (\nCMSF\n). It's a simple and lightweight of CMSF. Very suitable for \nIntermediate PHP developer\n to \nAdvanced Developer\n. Some manual configurations needed to make this application to work. \n\n\n\n\nWhy GeniXCMS\n\n\n\n\nThis CMSF is a starter point to build your own online applications. With already build \nUser manager\n, \nContent manager\n (\nPost\n, \nPages\n), \nMenu manager\n, etc made you easy to add your own code and build your own custom web applications. \n\n\n\n\nCredits\n\n\n\n\nGeniXCMS\n is using some of \nFOSS\n (free and opensource software) like :\n\n\n\n\nTwitter \nBootstrap\n, \n\n\nSummernote\n Text Editor, \n\n\nJQuery\n, \n\n\nPHP\n, \n\n\nMySQL\n, \n\n\nSB-Admin 2\n,\n\n\nBootstrap Validator\n,\n\n\netc.\n\n\n\n\n\n\nRequirements\n\n\n\n\n\n\nPHP >=\n5.5.9\n\n\nMySQL >=\n4\n\n\n\n\n\n\nShowcase\n\n\n\n\nShowcase URL : \nhttp://demo.genix.id\n\n\n\n\nLicense\n\n\n\n\nGeniXCMS\n License : \nMIT License\n\n\n\n\nWebsite\n\n\n\n\nLink : \nhttp://genix.id\n\n\n\n\nDeveloper\n\n\n\n\nDeveloped by : Puguh Wijayanto - \nhttp://www.metalgenix.com",
             "title": "About"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "location": "/about/about/#website",
-            "text": "Link :  http://www.genix.id",
+            "text": "Link :  http://genix.id",
             "title": "Website"
         },
         {
